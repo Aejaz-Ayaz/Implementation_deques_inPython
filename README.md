@@ -1,8 +1,6 @@
 # Implementation_deques_inPython
 
-deques
-
-are "double ended queues"
+deques are "double ended queues"
 
 is a mix of stack and queue, items can be added/removed from either ends, its both FIFO and LIFO
 
